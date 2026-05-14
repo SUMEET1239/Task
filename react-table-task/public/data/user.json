@@ -1,0 +1,179 @@
+{
+  "users": [
+    {
+      "name": "Sumeet Gupta",
+      "email": "sumitg1239@gmail.com",
+      "city": "Mumbai",
+      "age": 22,
+      "id": 1
+    },
+    {
+      "name": "Durga",
+      "email": "durga@gmail.com",
+      "city": "Dharavi",
+      "age": 21,
+      "id": 2
+    },
+    {
+      "name": "Prerna Gupta",
+      "email": "prerna@gmail.com",
+      "city": "Thane",
+      "age": 24,
+      "id": 3
+    },
+    {
+      "name": "Sachin Jaiswal",
+      "email": "sachin@gmail.com",
+      "city": "Antophil",
+      "age": 23,
+      "id": 4
+    },
+    {
+      "name": "Hritk Ghussar",
+      "email": "hritik112@gmail.com",
+      "city": "Sultanpur",
+      "age": 26,
+      "id": 5
+    },
+    {
+      "name": "Chaaya Jaiswal",
+      "email": "Nikki111@gmail.com",
+      "city": "Varanasi",
+      "age": 24,
+      "id": 6
+    },
+    {
+      "name": "Jaishi Jaiswal",
+      "email": "jaishi@gmail.com",
+      "city": "Mumbai",
+      "age": 22,
+      "id": 7
+    },
+    {
+      "name": "Nainesh Bommera",
+      "email": "nainesh22@gmail.com",
+      "city": "Rabale",
+      "age": 35,
+      "id": 8
+    },
+    {
+      "name": "Aditya Yadav",
+      "email": "adi111@gmail.com",
+      "city": "Antophil",
+      "age": 26,
+      "id": 9
+    },
+    {
+      "name": "Benny",
+      "email": "benny890@gmail.com",
+      "city": "Andhra Pradesh",
+      "age": 22,
+      "id": 10
+    },
+    {
+      "name": "Prajwal",
+      "email": "praju@gmail.com",
+      "city": "Shridi",
+      "age": 27,
+      "id": 11
+    },
+    {
+      "name": "Aakash",
+      "email": "aakya@gmail.com",
+      "city": "Shridi",
+      "age": 24,
+      "id": 12
+    },
+    {
+      "name": "Vishnu",
+      "email": "vishnu@gmail.com",
+      "city": "Thane",
+      "age": 28,
+      "id": 13
+    },
+    {
+      "name": "Pradeep",
+      "email": "scary@gmail.com",
+      "city": "Diva",
+      "age": 21,
+      "id": 14
+    },
+    {
+      "name": "Saloni Jaiswal",
+      "email": "saloni111@gmail.com",
+      "city": "Mumbai",
+      "age": 99,
+      "id": 15
+    },
+    {
+      "name": "sonali",
+      "email": "sonali@gmail.com",
+      "city": "Antophil",
+      "age": 91,
+      "id": 16
+    },
+    {
+      "name": "Jyoti Niraj Jaiswal",
+      "email": "jyoti13345@gmail.com",
+      "city": "Rabale",
+      "age": 30,
+      "id": 17
+    },
+    {
+      "name": "Niraj Jaiswal",
+      "email": "niraj@gmail.com",
+      "city": "Rabale",
+      "age": 32,
+      "id": 18
+    },
+    {
+      "name": "Priyanka Mourya",
+      "email": "piuu@gmail.com",
+      "city": "Thane",
+      "age": 32,
+      "id": 19
+    },
+    {
+      "name": "Sandeep Mourya",
+      "email": "sandeep@gmail.com",
+      "city": "Thane",
+      "age": 35,
+      "id": 20
+    },
+    {
+      "name": "Ivaan Mourya",
+      "email": "ivaan@gmail.com",
+      "city": "Thane",
+      "age": 17,
+      "id": 21
+    },
+    {
+      "name": "Sumit",
+      "email": "sumitg@gmail.com",
+      "city": "Mumbai",
+      "age": 22,
+      "id": 22
+    },
+    {
+      "name": "Rani Gupta",
+      "email": "rani@gmail.com",
+      "city": "Mumbai",
+      "age": 48,
+      "id": 23
+    },
+    {
+      "name": "Anil Gupta",
+      "email": "anil@gmail.com",
+      "city": "Mumbai",
+      "age": 51,
+      "id": 24
+    },
+    {
+      "name": "Aarti Jaiswal",
+      "email": "aarti@gmail.com",
+      "city": "Sultanpur",
+      "age": 23,
+      "id": 25
+    }
+  ]
+}
