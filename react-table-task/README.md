@@ -47,11 +47,20 @@ Go to project directory:
 cd Task
 ```
 
-Install dependencies:
+# Dependencies Used
+
+## Main Dependencies
 
 ```bash
-npm install
-
+npm install react-redux @reduxjs/toolkit
+npm install @tanstack/react-table
+npm install react-hook-form
+npm install react-toastify
+npm install xlsx
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm install react-icons
+npm install tailwindcss
 
 ---
 
@@ -159,70 +168,51 @@ src/
 
 ## Project Files
 
-```md
 ![Files](./screenshots/Project-Files.png)
-```
 
 ---
 
 ## Dashboard
 
 Dashboard UI
-```md
+
 ![Dashboard](./screenshots/Dashboard.png)
-```
+
 ---
 
 ## Add User Modal
 
-```md
 ![Add User](./screenshots/AddingUser.png)
-```
 
 ---
 
-
 ## Table Sorting and Search
 
-```md
 ![Table Features](./screenshots/SearchValidatiion.png)
-```
 
 ---
 
 ## Search Key Download
 
-```md
-![Table Features](./screenshots/RequiredDataDownload.png)
-```
+![Download](./screenshots/RequiredDataDownload.png)
 
 ---
 
 ## Ascending Order
 
-```md
-![Table Features](./screenshots/AscendingOrder.png)
-```
+![Ascending](./screenshots/AscendingOrder.png)
 
 ---
 
 ## Descending Order
 
-```md
-![Table Features](./screenshots/DescendingOrder.png)
-```
+![Descending](./screenshots/DescendingOrder.png)
 
 ---
 
 ## Excel Document Download
 
-```md
 ![Excel](./screenshots/ExcelDocument.png)
-```
-
----
-
-
 
 
 # Author
